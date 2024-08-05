@@ -1,0 +1,23 @@
+.box{
+    display: flex;
+    justify-content: space-around;
+}
+
+.images{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper{
+    height: 100vh;
+}
+
+.current-tab {
+    font-weight: bold;
+}
+
+.hiddenImage {
+    display: none;
+}
